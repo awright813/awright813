@@ -6,7 +6,7 @@
 
 **Skills**: Python /  SQL / ArcGIS / Tableau
 
-- 🔭 I’m currently working on analyzing magma composition from the 2006 eruption of Augustine Volcano 🌋 with Python 
+- 🔭 I’m currently working on analyzing magma composition from Augustine Volcano 🌋 with Python 
 - 🌱 I’m learning about machine learning and natural language processing 
 - 🤔 I’m looking for help with expanding my data science skillset 
 - 💬 Ask me about leveraging data science workflows in geoscience and geospatial technology 
@@ -20,10 +20,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/awright813)
