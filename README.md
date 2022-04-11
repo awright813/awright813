@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrea Wright (@awright813)
+- ⛏ I have a background in geoscience and currently work in the oil & gas industry
+- 👀 I’m interested in data science and analytics
+- 📫 Reach me at andreawright0813@gmail.com
