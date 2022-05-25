@@ -6,9 +6,8 @@
 
 **Skills**: Python /  SQL / ArcGIS / Tableau
 
-- 🔭 I’m currently working on analyzing magma composition from Augustine Volcano 🌋 with Python 
-- 🌱 I’m learning about machine learning and natural language processing 
-- 🤔 I’m looking for help with expanding my data science skillset 
+- 🔭 I’m currently working on a fun project analyzing contestant behavior on the Netflix TV show "Bullsh!t" with Python 
+- 🌱 I’m learning about creative applications for NLP
 - 💬 Ask me about leveraging data science workflows in geoscience and geospatial technology 
 - 📫 How to reach me: andreawright0813@gmail.com 
 - 😄 Pronouns: She/Her 🌈
