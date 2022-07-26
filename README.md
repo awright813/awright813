@@ -1,14 +1,10 @@
 ### Hi there 👋, my name is Andrea Wright
-#### I am a **geoscientist** and **data scientist**
-**Geoscientist**, Global New Opportunities 🌎 - <span style="color:red">**Exxon**</span><span style="color:blue">**Mobil**</span>
+#### I am a Jr Data Scientist at ReviewTrackers 
 
 <span style="color:green">**University of Miami**</span><span style="color:orange"> **2019**</span> 🙌
 
 **Skills**: Python /  SQL / ArcGIS / Tableau
 
-- 🔭 I’m currently working on a fun project analyzing contestant behavior on the Netflix TV show "Bullsh!t" with Python 
-- 🌱 I’m learning about creative applications for NLP
-- 💬 Ask me about leveraging data science workflows in geoscience and geospatial technology 
 - 📫 How to reach me: andreawright0813@gmail.com 
 - 😄 Pronouns: She/Her 🌈
 
