@@ -36,7 +36,7 @@ Developed a fine-tuned BERT model to classify the sentiment of over 1,000 manual
 ### Predicting Sea Surface Temperature and Fishing Conditions:
 Currently developing a machine learning model to predict sea surface temperature and fishing conditions in coastal Washington State. This project aims to provide valuable insights for commercial and charter fishermen by leveraging historical data and machine learning techniques.
 
-<img src="https://github.com/awright813/SST_WA.jpeg" width="500"/>
+<img src="https://github.com/awright813/awright813/blob/main/SST_WA.jpeg" width="500"/>
 
 *Repository coming soon*
 
