@@ -1,13 +1,12 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm Andrea Wright, an experienced Data Science and Machine Learning Team Lead with a focus on NLP and product-driven machine learning solutions. My journey in tech has been all about blending deep technical expertise with strategic leadership to create impactful ML-powered products.
+Hi, I'm Andrea Wright, an experienced Data Science and Machine Learning Team Lead with a focus on NLP and product-driven machine learning solutions
 
 ## 🔧 Technical Expertise
 **Natural Language Processing (NLP)**: Extensive experience in developing, deploying, and optimizing NLP models, including leading the enhancement of NLP models in 29 languages.  
 **Machine Learning**: Skilled in implementing end-to-end ML pipelines, from data cleaning and feature engineering to model training and deployment, with a focus on scalability and efficiency.  
-**Performance Optimization**: Achieved significant improvements in model performance, including a 25% reduction in document processing time and an average F1 score increase of 10% in my current role.  
-**Team Leadership**: Lead a team of machine learning engineers, providing mentorship and aligning team priorities with business objectives to drive successful project outcomes.  
-**Software Engineering**: Maintain and enhance internal platforms for model training and deployment, ensuring robust and scalable solutions.  
+**Team Leadership**: Experienced in leading teams of machine learning engineers, mentorign more junior ML engineers and aligning team priorities with business objectives 
+**Software Engineering**: Maintain and enhance internal platforms for model training and deployment
 
 ## 💼 Featured Projects
 ### Sentiment Analysis on Enron Emails:
