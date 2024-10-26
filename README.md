@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm Andrea Wright, an experienced Data Science and Machine Learning Team Lead with a focus on NLP and product-driven machine learning solutions
+Hi, I'm Andrea Wright Morgan, an experienced Data Science and Machine Learning Team Lead with a focus on NLP and product-driven machine learning solutions
 
 ## 🔧 Technical Expertise
 **Natural Language Processing (NLP)**: Extensive experience in developing, deploying, and optimizing NLP models, including leading the enhancement of NLP models in 29 languages.  
