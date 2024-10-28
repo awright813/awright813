@@ -33,6 +33,14 @@ Developed a fine-tuned BERT model to classify the sentiment of over 1,000 manual
 
 [View Project](https://github.com/awright813/enron)  
 
+### Ghosted -- Python Library for Synthetic Data Generation and Tuning
+Ghosted is a Python library I developed for generating synthetic data, augmenting existing datasets, and visualizing complex data distributions. It’s designed for other data scientists, researchers, and developers who need to generate realistic synthetic data or blend synthetic data with real data for privacy-preserving applications, prototyping, testing, and educational purposes.
+
+<img src="https://github.com/awright813/ghosted/blob/main/example.png" width="1000" />
+
+[View Library](https://pypi.org/project/ghosted/#description)
+[View Codebase](https://github.com/awright813/ghosted)
+
 ### Predicting Sea Surface Temperature and Fishing Conditions:
 Currently developing a machine learning model to predict sea surface temperature and fishing conditions in coastal Washington State. This project aims to provide valuable insights for commercial and charter fishermen by leveraging historical data and machine learning techniques.
 
