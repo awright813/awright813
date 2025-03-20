@@ -52,4 +52,4 @@ Currently developing a machine learning model to predict sea surface temperature
 I'm always open to new opportunities to collaborate on exciting projects. If you have ideas or want to contribute to any of my projects, feel free to reach out!
 
 ## 📫 Connect with Me
-[LinkedIn](linkedin.com/in/andrea-wright8/)
+[LinkedIn](linkedin.com/in/andrea-wright-morgan/)
